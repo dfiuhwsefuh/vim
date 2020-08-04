@@ -1,2 +1,2 @@
 # vim
-A place to throw my art projects.
+A place to throw my random thoughts.
